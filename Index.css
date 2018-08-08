@@ -1,0 +1,65 @@
+#title{
+  text-align: center;
+  font-size: 45px;
+}
+.subtitle{
+  text-align: center;
+}
+#main{
+  font-family:  Helvetica;
+  background-color:#F1E2BE;
+  border-radius: 10%;
+  width: 100%;
+}
+#image{
+  border: 0px double #e0bd6c;
+  border-radius: 7%;
+  width: 100%;
+  max-width: 100%;
+  display: block;
+}
+#img-div{
+  border: none;
+}
+#img-caption{
+  margin:17px;
+  text-align: center;
+}
+h2 {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 15em;
+  font-family: "Courier New", Courier, monospace;
+}
+a{
+  font-size:23px;
+  text-decoration: none;
+  margin-left: 7em;
+}
+#tribute-link { 
+  font-size:23px;
+  text-decoration: none;
+  margin-left: 7em;
+}
+#tribute-link:hover{
+  color: orange;
+  cursor: pointer;
+}
+#tribute-info{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+ul{
+  type: circle;
+  margin-left: 2em;
+}
+li{
+  font-style:italic;
+  font-size: 20px;
+}
+.bold{
+  font-size: 24px;
+  font-style: strong;
+}
+p{
+  text-align: center;
+}
